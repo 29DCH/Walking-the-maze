@@ -11,3 +11,9 @@ DFS:
 
 
 ![image](https://github.com/29DCH/Walking-the-maze/blob/master/image1.png)
+
+
+BFS:
+
+
+![image](https://github.com/29DCH/Walking-the-maze/blob/master/image2.png)
